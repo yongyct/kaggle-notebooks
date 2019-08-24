@@ -12,3 +12,6 @@ The following libraries are used for this notebook:
 * sklearn
 * lightgbm (installed via [conda-forge](https://anaconda.org/conda-forge/lightgbm))
 * xgboost (installed via [conda-forge](https://anaconda.org/anaconda/py-xgboost))
+
+## Others
+Create a "data" folder in this directory, to place/read/write data files from/to Kaggle (e.g. test.csv, train.csv, submission.csv)
